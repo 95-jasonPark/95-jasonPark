@@ -8,10 +8,6 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-
-**[공지사항]** [공지사항 관련 테스트입니다.] (https://95-jasonpark.github.io/)
-{: .notice}
-
 <div class="notice">
 <h4>공지사항입니다.</h4>
 <ul>
