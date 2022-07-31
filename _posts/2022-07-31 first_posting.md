@@ -4,6 +4,7 @@ title: "연습용 첫 포스팅 입니다."
 categories: test
 tag: test-post
 toc: true
+author_profile: false
 ---
 
 # 타이틀 1
