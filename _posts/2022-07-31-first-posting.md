@@ -9,6 +9,20 @@ sidebar:
     nav: "docs"
 ---
 
+**[공지사항]** [공지사항 관련 테스트입니다.] (https://95-jasonpark.github.io/)
+{: .notice}
+
+<div class="notice">
+<h4>공지사항입니다.</h4>
+<ul>
+    <li>공지사항 순서 1</li>
+    <li>공지사항 순서 2</li>
+    <li>공지사항 순서 3</li>
+</ul>
+</div>
+
+[홈으로](https://95-jasonpark.github.io/){: .btn .btn--danger}
+
 # 타이틀 1
 ## 목차 1-1
 ### 세부목차 1-1.1
