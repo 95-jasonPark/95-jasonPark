@@ -5,6 +5,8 @@ categories: test
 tag: test-post
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # 타이틀 1
