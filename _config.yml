@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "jason Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Junior **Game** programmer"
+  bio              : "Junior Game programmer"
   location         : "Seoul, Republic of Korea"
-  email            : "95.jasonpark@gmail.com"
+  #email            : "95.jasonpark@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
